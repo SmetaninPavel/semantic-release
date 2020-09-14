@@ -4,7 +4,9 @@
   "repository": "https://github.com/SmetaninPavel/semantic-release",
   "main": "index.js",
   "devDependencies": {
-    "semantic-release": "^17.1.1"
+    "semantic-release": "^17.1.1",
+    "@semantic-release/git": "^9.0.0",
+    "@semantic-release/npm": "^7.0.5"
   },
   "scripts": {
     "publish": "npx --no-install semantic-release"
