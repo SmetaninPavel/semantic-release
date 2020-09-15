@@ -1,6 +1,6 @@
 {
   "name": "smetanin-pavel-semantic-release",
-  "version": "3.1.0",
+  "version": "3.2.0",
   "repository": "https://github.com/SmetaninPavel/semantic-release",
   "main": "index.js",
   "devDependencies": {
