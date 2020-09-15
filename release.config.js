@@ -10,6 +10,6 @@ module.exports = new Promise(async (resolve) => {
             "@semantic-release/npm",
             "@semantic-release/git"
         ],
-        branches: ["master", "next"]
+        branches: ["master", "next", {name: "beta", prerelease: true}]
     });
 });
