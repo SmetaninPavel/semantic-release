@@ -5,6 +5,7 @@ on:
     branches:
       - master
       - beta
+      - next
 
 jobs:
   release:
